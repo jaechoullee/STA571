@@ -1,1 +1,1 @@
-# STA571
+# STA571: Statistical Methods II
